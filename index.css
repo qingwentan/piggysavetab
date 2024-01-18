@@ -5,6 +5,11 @@ body {
     min-width: 400px;
 }
 
+h1 {
+    color: #CC978E;
+    text-align: left;
+}
+
 input {
     width: 100%;
     padding: 10px;
